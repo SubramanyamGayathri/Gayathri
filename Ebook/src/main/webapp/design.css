@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+
+Form
+{
+	text-align:center;
+}
+h1
+{
+	text-align:center;
+	color:pink;
+}
+img{
+    max-width:80%;
+    height:30%;
+
+}
+html{
+	background-color: #34c2b4;
+}
